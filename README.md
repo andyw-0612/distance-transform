@@ -39,6 +39,6 @@ Installing
 
 Install the package using pip:
 
-    pip install git+https://github.com/hbristow/distance-transform
+    pip install git+https://github.com/andyw-0612/distance-transform
 
 You will need Cython to build the extensions.
